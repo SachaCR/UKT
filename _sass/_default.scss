@@ -1,12 +1,12 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Roboto', sans-serif;
-    color: $text-color-secondary;
-    background: $smoky-white;
-    font-size: 14px;
-    padding: 30px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', sans-serif;
+  color: $text-color-secondary;
+  background: $smoky-white;
+  font-size: 14px;
+  padding: 30px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6  {
@@ -14,43 +14,42 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 15%);
-    &:hover {
-        text-decoration: underline;
-        color: darken($theme-color, 30%);
-    }
-    &:focus {
-        text-decoration: none;
-    }
+  color: darken($theme-color, 15%);
+  &:hover {
+    text-decoration: underline;
+    color: darken($theme-color, 30%);
+  }
+  &:focus {
+    text-decoration: none;
+  }
 }
 
 p {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 .wrapper {
-    background:$theme-color;
-    max-width: 1000px;
-    margin: 0 auto;
-    position: relative;
+  background:$theme-color;
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative;
 }
 
 .main-wrapper {
-    background: #fff;
-    padding: 60px;
-    padding-right: 340px;
+  background: #fff;
+  padding: 60px;
+  padding-right: 340px;
 }
 
 .footer {
-    padding-top: 30px;
-    .copyright {
-        line-height: 1.6;
-        color: $text-color-secondary;
-        font-size: 13px;
-    }
+  padding-top: 30px;
+  .copyright {
+    line-height: 1.6;
+    color: $text-color-secondary;
+    font-size: 13px;
+  }
 
-    .fa-heart {
-        color: $heart;
-    }
-
+  .fa-heart {
+    color: $heart;
+  }
 }
