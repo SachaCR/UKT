@@ -1,4 +1,5 @@
 import clsx from "clsx";
+import Admonition from "@theme/Admonition";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
@@ -17,11 +18,13 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <p>
+            <Admonition type="warning">
+              Le site du club de Karate UKT fait peau neuve et n'est pas encore
+              terminé. En attendant veuillez trouver ci-dessous toutes les
+              informations nécessaires pour cette rentrée 2024-2025.
+            </Admonition>
             <img src="./img/ukt/noon.jpg"></img>
             <br />
-            Le site club de Karate UKT fait peau neuve. En attendant veuillez
-            trouver ci-dessous toutes les informations nécessaires pour cette
-            rentrée 2024-2025.
             <br />
             <br />
             <Link
