@@ -2,7 +2,6 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import Heading from "@theme/Heading";
 import styles from "./index.module.css";
@@ -17,17 +16,20 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          {/* <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link> */}
           <p>
             <img src="./img/ukt/noon.jpg"></img>
             <br />
             Le site club de Karate UKT fait peau neuve. En attendant veuillez
             trouver ci-dessous toutes les informations nécessaires pour cette
             rentrée 2024-2025.
+            <br />
+            <br />
+            <Link
+              className="button button--secondary button--lg"
+              to="/horaires-des-cours"
+            >
+              Horaires et lieux des cours
+            </Link>
           </p>
         </div>
       </div>

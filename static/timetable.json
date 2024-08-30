@@ -1,0 +1,279 @@
+{
+  "settings": {
+    "showTitle": true,
+    "clockType": "24-hour",
+    "lineSpacing": 60,
+    "timeRange": [
+      "11",
+      "22"
+    ],
+    "showDuration": true,
+    "background": {
+      "value": null,
+      "type": 0
+    },
+    "firstDayOfWeek": 0,
+    "autoEventColor": false,
+    "stretchEvents": true,
+    "weekDays": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "fontFamily": "Roboto Slab",
+    "fontColor": {
+      "dark": "#ffffff",
+      "light": "#2f2f6a"
+    },
+    "centerText": true,
+    "showDates": false,
+    "weekNumber": null
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "icon": null,
+      "day": 0,
+      "description": "6/12 ans BEAUCHAMP",
+      "timeRange": [
+        "17:30",
+        "18:30"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "13 ans / Adulte BEAUCHAMP",
+      "day": 5,
+      "timeRange": [
+        "11:00",
+        "13:00"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "13 ans / Adulte FREPILLON",
+      "day": 0,
+      "timeRange": [
+        "20:00",
+        "21:30"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "6/12 ans FREPILLON",
+      "day": 2,
+      "timeRange": [
+        "15:30",
+        "16:30"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "13/16 ans FREPILLON",
+      "day": 2,
+      "timeRange": [
+        "16:30",
+        "17:30"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "icon": null,
+      "timeRange": [
+        "20:30",
+        "22:00"
+      ],
+      "description": " Ado / Adulte BEAUCHAMP",
+      "day": 0
+    },
+    {
+      "id": 7,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "description": "2/5 ans BEAUCHAMP",
+      "day": 5,
+      "timeRange": [
+        "13:30",
+        "14:30"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "description": "6/12 ans BEAUCHAMP",
+      "day": 5,
+      "timeRange": [
+        "14:30",
+        "16:00"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "description": "2/5 ans FREPILLON",
+      "day": 1,
+      "timeRange": [
+        "18:00",
+        "18:55"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "description": "6/12 ans FREPILLON",
+      "day": 4,
+      "timeRange": [
+        "19:00",
+        "20:00"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Boxe",
+      "colors": {
+        "color": "#f4c686",
+        "colorTransparent": "rgba(244,198,134,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "13 ans / Adulte FREPILLON",
+      "day": 1,
+      "timeRange": [
+        "20:00",
+        "21:30"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Boxe",
+      "colors": {
+        "color": "#f4c686",
+        "colorTransparent": "rgba(244,198,134,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "6/12 ans FREPILLON",
+      "day": 3,
+      "timeRange": [
+        "18:45",
+        "19:45"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Multisports",
+      "colors": {
+        "color": "#79e68c",
+        "colorTransparent": "rgba(121,230,140,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "day": 4,
+      "timeRange": [
+        "18:00",
+        "18:55"
+      ],
+      "description": "2/6 ans FREPILLON"
+    },
+    {
+      "id": 14,
+      "day": 2,
+      "timeRange": [
+        "17:00",
+        "18:00"
+      ],
+      "title": "Multisports",
+      "colors": {
+        "color": "#79e68c",
+        "colorTransparent": "rgba(121,230,140,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "2/6 ans BEAUCHAMP"
+    },
+    {
+      "id": 15,
+      "title": "Body Combat",
+      "colors": {
+        "color": "#d586e4",
+        "colorTransparent": "rgba(213,134,228,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "Jeune / Adulte FREPILLON",
+      "day": 2,
+      "timeRange": [
+        "18:45",
+        "19:45"
+      ]
+    }
+  ]
+}

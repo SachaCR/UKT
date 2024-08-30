@@ -118,6 +118,11 @@ export default [
     exact: true
   },
   {
+    path: '/UKT/horaires-des-cours',
+    component: ComponentCreator('/UKT/horaires-des-cours', 'fbb'),
+    exact: true
+  },
+  {
     path: '/UKT/karate',
     component: ComponentCreator('/UKT/karate', '8be'),
     exact: true
