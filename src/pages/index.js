@@ -30,6 +30,14 @@ function HomepageHeader() {
             >
               Horaires et lieux des cours
             </Link>
+            <br />
+            <br />
+            <Link
+              className="button button--secondary button--lg"
+              to="/inscriptions"
+            >
+              Fiche D'inscriptions
+            </Link>
           </p>
         </div>
       </div>
