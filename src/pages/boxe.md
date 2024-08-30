@@ -1,3 +1,3 @@
 # Boxe
 
-Information concernant les cours de Boxe
+Cette page est en cours de construction.

@@ -1,3 +1,3 @@
 # Karate
 
-Information concernant les cours de Karate
+Cette page est en cours de construction.

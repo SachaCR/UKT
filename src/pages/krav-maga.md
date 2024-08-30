@@ -1,3 +1,3 @@
 # Krav Maga
 
-Information concernant les cours de Krav Maga
+Cette page est en cours de construction.

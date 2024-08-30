@@ -8,9 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "UKT",
+  title: "Site du club UKT Beauchamp et Frepillon",
   tagline: "",
-  favicon: "img/favicon.ico",
+  favicon: "img/ukt/ukt-logo.jpg",
 
   // Set the production url of your site here
   url: "https://sachacr.github.io",
@@ -77,7 +77,7 @@ const config = {
         title: "UKT",
         logo: {
           alt: "UKT Logo",
-          src: "img/logo.svg",
+          src: "img/ukt/ukt-logo.jpg",
         },
         items: [
           // {
@@ -106,24 +106,29 @@ const config = {
             label: "Krav Maga",
             href: "/krav-maga",
           },
+          {
+            position: "left",
+            label: "Multi Sports",
+            href: "/multi-sports",
+          },
 
           // { to: "/blog", label: "Blog", position: "left" },
-          // {
-          //   href: "https://github.com/facebook/docusaurus",
-          //   label: "GitHub",
-          //   position: "right",
-          // },
+          {
+            href: "https://www.facebook.com/UKTKarate95/",
+            label: "Facebook",
+            position: "right",
+          },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Contacts",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Contacts",
+                to: "/contacts",
               },
             ],
           },
@@ -131,34 +136,22 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Facebook",
+                href: "https://www.facebook.com/UKTKarate95/",
               },
             ],
           },
           {
-            title: "More",
+            title: "Mention Légales",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Informations Légales",
+                to: "/mentions-legales",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} UKT Website, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

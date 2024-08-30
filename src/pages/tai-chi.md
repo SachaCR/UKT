@@ -1,3 +1,3 @@
 # Tai Chi
 
-Information concernant les cours de Tai Chi
+Cette page est en cours de construction.
