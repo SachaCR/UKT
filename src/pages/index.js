@@ -39,7 +39,7 @@ function HomepageHeader() {
               className="button button--secondary button--lg"
               to="/inscriptions"
             >
-              Fiche D'inscriptions
+              Fiche d'Inscriptions
             </Link>
           </p>
         </div>
