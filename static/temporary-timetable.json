@@ -4,7 +4,7 @@
     "clockType": "24-hour",
     "lineSpacing": 60,
     "timeRange": [
-      "11",
+      "10",
       "22"
     ],
     "showDuration": true,
@@ -79,7 +79,7 @@
       "day": 0,
       "timeRange": [
         "20:00",
-        "21:30"
+        "22:00"
       ]
     },
     {
@@ -259,6 +259,153 @@
       ],
       "description": " Ado / Adulte BEAUCHAMP",
       "day": 3
+    },
+    {
+      "id": 17,
+      "title": "Tai Chi Chuan",
+      "day": 5,
+      "colors": {
+        "color": "#f2ff8f",
+        "colorTransparent": "rgba(242,255,143,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "timeRange": [
+        "10:30",
+        "12:30"
+      ],
+      "description": "Ado / Adulte FREPILLON"
+    },
+    {
+      "id": 18,
+      "title": "Tai Chi Chuan",
+      "day": 1,
+      "colors": {
+        "color": "#f2ff8f",
+        "colorTransparent": "rgba(242,255,143,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "timeRange": [
+        "10:30",
+        "12:30"
+      ],
+      "description": "Ado / Adulte FREPILLON"
+    },
+    {
+      "id": 19,
+      "title": "Tai Chi Chuan",
+      "day": 2,
+      "colors": {
+        "color": "#f2ff8f",
+        "colorTransparent": "rgba(242,255,143,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "timeRange": [
+        "20:00",
+        "22:00"
+      ],
+      "description": "Ado / Adulte FREPILLON"
+    },
+    {
+      "id": 20,
+      "title": "Boxe",
+      "colors": {
+        "color": "#f4c686",
+        "colorTransparent": "rgba(244,198,134,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "6/12 ans FREPILLON",
+      "day": 0,
+      "timeRange": [
+        "18:45",
+        "19:45"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Karate",
+      "colors": {
+        "color": "#4866f9",
+        "colorTransparent": "rgba(72,102,249,0.75)",
+        "subColor": "#fafafa",
+        "subColorTransparent": "rgba(250,250,250,0.75)"
+      },
+      "description": "6/12 ans FREPILLON",
+      "day": 1,
+      "timeRange": [
+        "19:00",
+        "20:00"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "icon": null,
+      "day": 2,
+      "description": "6/12 ans FREPILLON",
+      "timeRange": [
+        "16:15",
+        "17:00"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "icon": null,
+      "day": 2,
+      "description": "13 / 16 ans FREPILLON",
+      "timeRange": [
+        "17:00",
+        "18:00"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Krav Maga / MMA",
+      "colors": {
+        "color": "#06dbcd",
+        "colorTransparent": "rgba(6,219,205,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "icon": null,
+      "day": 3,
+      "description": "13 ans / Adultes FREPILLON",
+      "timeRange": [
+        "20:00",
+        "22:00"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Boxe",
+      "colors": {
+        "color": "#f4c686",
+        "colorTransparent": "rgba(244,198,134,0.75)",
+        "subColor": "#0d1931",
+        "subColorTransparent": "rgba(13,25,49,0.75)"
+      },
+      "description": "Ados / Adultes FREPILLON",
+      "day": 4,
+      "timeRange": [
+        "20:00",
+        "21:30"
+      ]
     }
   ]
 }
