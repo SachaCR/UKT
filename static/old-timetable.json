@@ -9,8 +9,8 @@
     ],
     "showDuration": true,
     "background": {
-      "value": "#a8b7d7",
-      "type": 1
+      "value": null,
+      "type": 0
     },
     "firstDayOfWeek": 0,
     "autoEventColor": false,
@@ -84,14 +84,14 @@
     },
     {
       "id": 4,
-      "title": "??? Krav Maga / MMA ???",
+      "title": "Krav Maga / MMA",
       "colors": {
         "color": "#06dbcd",
         "colorTransparent": "rgba(6,219,205,0.75)",
         "subColor": "#0d1931",
         "subColorTransparent": "rgba(13,25,49,0.75)"
       },
-      "description": "HORAIRE A CONFIRMER 6/12 ans FREPILLON",
+      "description": "6/12 ans FREPILLON",
       "day": 2,
       "timeRange": [
         "15:30",
@@ -100,14 +100,14 @@
     },
     {
       "id": 5,
-      "title": "??? Krav Maga / MMA ???",
+      "title": "Krav Maga / MMA",
       "colors": {
         "color": "#06dbcd",
         "colorTransparent": "rgba(6,219,205,0.75)",
         "subColor": "#0d1931",
         "subColorTransparent": "rgba(13,25,49,0.75)"
       },
-      "description": "HORAIRE A CONFIRMER 13/16 ans FREPILLON",
+      "description": "13/16 ans FREPILLON",
       "day": 2,
       "timeRange": [
         "16:30",

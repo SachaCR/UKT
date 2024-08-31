@@ -1,3 +1,3 @@
 # Horaires et lieux des cours
 
-![Horaires et lieux des cours](/img/ukt/schedule_2024_2025.png)
+![Horaires et lieux des cours](/img/ukt/schedule/temp-schedule.png)
