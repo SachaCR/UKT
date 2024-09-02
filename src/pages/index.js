@@ -19,13 +19,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <p>
             <Admonition type="info">
-              Le site du club de Karate UKT fait peau neuve et n'est pas encore
-              terminé.
+              Le site du club UKT fait peau neuve et n'est pas encore terminé.
               <br />
               En attendant veuillez trouver ci-dessous toutes les informations
               nécessaires pour cette rentrée 2024-2025. Si vous souhaitez des
-              informations concernants les tarifs des différentes activités,
-              nous vous demanderons de bien vouloir nous adresser un mail à
+              informations concernant les tarifs des différentes activités, nous
+              vous demandons de bien vouloir nous adresser un mail à
               uktjmp@free.fr ou d'appeler le 09 50 09 95 19.
               <br />
               <br />
